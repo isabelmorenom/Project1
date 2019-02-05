@@ -7,7 +7,7 @@ package javaapplication6;
 
 /**
  *
- * @author Isabel
+ * @author Isabel Moreno
  */
    import java.util.*;
 public class JavaApplication6 {
